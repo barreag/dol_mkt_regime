@@ -1,0 +1,27 @@
+# Core Data Science Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Machine Learning - Core
+scikit-learn>=1.2.0
+
+# Time Series Analysis - Change Point Detection
+ruptures>=1.1.0
+
+# Financial Data
+yfinance>=0.2.0
+
+# Jupyter Notebooks
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# Utilities
+tqdm>=4.65.0
+
+# Note: This project was developed for educational and research purposes only.
+# These packages are required to run the USD/BRL market regime detection notebooks.
+# The regime predictions should NOT be used for actual trading decisions.
